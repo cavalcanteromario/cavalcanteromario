@@ -1,0 +1,5 @@
+- 👋 Oi, sou Romário Cavalcante
+- 👀 Eu estou interessado em desenvolvimento para a web
+- 🌱 Atualmente estou aprendendo ferramentas front-end
+- 💞️ Estou procurando colaborar em projetos voltados para sistema de cashback
+- 📫 Como me encontrar, através das redes sociais Instagram: @cavalcanteromar e Linkedin: linkedin.com/in/romariopc
